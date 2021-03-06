@@ -16,5 +16,7 @@ public class Main {
         y_move=sc.nextInt();
         mr.move(x_move, y_move,mr.right);
         System.out.println(mr.speed());
+
+        System.out.println("hello world");
     }
 }
